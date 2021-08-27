@@ -5,7 +5,7 @@
 
 - 🌱 Estou estudando **ASP Net Core, Angular**
 
-- 💬 Posso ajudar com **Vue Js, Dot Net**
+- 💬 Posso ajudar com **Vue Js, NodeJs, Dot Net**
 
 - 📫 Entre em contato por **guilhermeaugvieira@gmail.com**
 
