@@ -9,7 +9,7 @@
 
 - 📫 Entre em contato por **guilhermeaugvieira@gmail.com**
 
-- ⚡ Fato divertido **Já manipulei imagem pixel a pixel para recriar o transparente**
+- ⚡ Fato divertido: **Já manipulei imagem pixel a pixel para recriar o transparente**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
