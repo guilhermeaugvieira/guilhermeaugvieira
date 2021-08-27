@@ -1,5 +1,5 @@
 <h1 align="center">Seja bem vindo ao perfil de Guilherme Augusto Vieira</h1>
-<h3 align="center">Interessado por desenvolvimento desde de 2014, procuro me aperfeiçoar atualmente em desenvolvimento web</h3>
+<h3 align="center">Interessado por desenvolvimento desde de 2014, procuro me aperfeiçoar em desenvolvimento web</h3>
 
 - 🌱 Estou estudando **ASP Net Core, Angular**
 
