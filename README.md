@@ -1,8 +1,6 @@
 <h1 align="center">Seja bem vindo ao perfil de Guilherme Augusto Vieira</h1>
 <h3 align="center">Interessado por desenvolvimento desde de 2014, procuro me aperfeiçoar atualmente em desenvolvimento web</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guilhermeaugvieira" alt="guilhermeaugvieira" /></a> </p>
-
 - 🌱 Estou estudando **ASP Net Core, Angular**
 
 - 💬 Posso ajudar com **Vue Js, NodeJs, Dot Net**
