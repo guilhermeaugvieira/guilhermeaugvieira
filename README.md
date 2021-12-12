@@ -1,5 +1,5 @@
 <h1 align="center">Seja bem vindo ao meu perfil</h1>
-<h3 align="center">Interessado por desenvolvimento desde de 2014, procuro me aperfeiçoar em desenvolvimento web</h3>
+<h3 align="center">Interessado por desenvolvimento desde de 2014, procuro me aperfeiçoar em desenvolvimento web como foco maior em backend dotnet</h3>
 
 - 🌱 Estou estudando **ASP Net Core, Angular**
 
