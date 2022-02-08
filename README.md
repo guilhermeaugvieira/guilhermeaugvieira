@@ -9,7 +9,7 @@
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/guilherme-augusto-vieira-553404176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilherme-augusto-vieira-553404176/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/guilherme-augusto-vieira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilherme-augusto-vieira-553404176/" height="30" width="40" /></a>
 <a href="https://fb.com/guilhermedino243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="guilhermedino243" height="30" width="40" /></a>
 <a href="https://instagram.com/guilherme_dino.gv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guilherme_dino.gv/" height="30" width="40" /></a>
 </p>
